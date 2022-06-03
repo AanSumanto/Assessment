@@ -1,0 +1,24 @@
+{
+  "name": "cli-tools",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "create cli-tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli-tools"
+  ],
+  "bin": {
+    "mytools": "./bin/cli.js"
+  },
+  "author": "Aan Sumanto",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1",
+    "log-to-json": "^1.0.0",
+    "yargs": "^17.5.1"
+  }
+}

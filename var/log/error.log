@@ -1,0 +1,6 @@
+Jun  1 22:20:05 secserv kernel: Kernel logging (proc) stopped.
+Jun  1 22:20:05 secserv kernel: Kernel log daemon terminating.
+Jun  1 22:20:06 secserv exiting on signal 15
+Nov 27 08:05:57 galileo kernel: Kernel logging (proc) stopped.
+Nov 27 08:05:57 galileo kernel: Kernel log daemon terminating.
+Nov 27 08:05:57 galileo exiting on signal 15
